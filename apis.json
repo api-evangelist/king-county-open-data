@@ -1,0 +1,46 @@
+{
+    "name": "King County Open Data",
+    "description": "<p>The King County Open Data Project is an ongoing effort to release high-value, machine readable data sets to the public. The data sets currently available come from many areas of county government. Ongoing efforts to expand the data are in progress.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/King-County-Open-Data.png",
+    "tags": [
+        "api provider",
+        "data provider",
+        "have api",
+        "washington"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/king-county-open-data\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "King County Open Data",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/King-County-Open-Data.png",
+            "humanURL": "https:\/\/data.kingcounty.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/king-county-open-data-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/king-county-open-data-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/data.kingcounty.gov\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/data.kingcounty.gov\/"
+        }
+    ]
+}
